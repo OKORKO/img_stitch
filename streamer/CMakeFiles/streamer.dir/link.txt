@@ -1,0 +1,2 @@
+/usr/bin/ar qc libstreamer.a  CMakeFiles/streamer.dir/streamer.cpp.o
+/usr/bin/ranlib libstreamer.a

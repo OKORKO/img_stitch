@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgpu.a  CMakeFiles/gpu.dir/gpu_generated_kernel_gpu.cu.o
+/usr/bin/ranlib libgpu.a
